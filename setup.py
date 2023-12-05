@@ -12,7 +12,7 @@ except (IOError, ImportError):
    readme = ''
 
 requirements = [
-    'requests==1.1.0',
+    'requests==2.31.0',
 ]
 
 test_requirements = [
